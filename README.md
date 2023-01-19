@@ -16,8 +16,8 @@ The project data consists in the following:
 - ```park_area.csv``` - has the total area of the national parks.
 
 ### Main finds
-- The four national parks combined have over XXXX km2;
-- In the past seven days was recorded XXXX mammals observations among the four parks;
+- The four national parks combined have over 15497.66km²;
+- In the past seven days was recorded 162.608 mammals observations among the four parks;
 - Though Yellowstone National Park has the biggest number of mammals observations registered Bryce National Park has the highest density of mammals population based on the observations registered.
 
 ### How to navigate through the project code and visualizations
