@@ -17,10 +17,14 @@ The project data consists in the following:
 
 ### Main finds
 - The four national parks combined have over XXXX km2;
-- In the past seven days was recorded XXXX mammals observations;
+- In the past seven days was recorded XXXX mammals observations among the four parks;
 - Though Yellowstone National Park has the biggest number of mammals observations registered Bryce National Park has the highest density of mammals population based on the observations registered.
 
 ### How to navigate through the project code and visualizations
 - The ```Mammal Population Density```file contains the main finds visualizations, codes, and explanations.
 - The ```Appendix``` has the complete code, exploratory steps, cleaning, and NaN filling process, with explanations of each step and decisions made through the analysis process.
+
+### Further analysis
+- Is the population density of other animal categories higher in the Bryce National Park as well?
+- Which variables contribute to the high mammal population density in Bryce National Park? 
 
